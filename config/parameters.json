@@ -1,0 +1,6 @@
+{
+  "gravity_constant": 9.81,
+  "earth_mass": 5.972e24,
+  "moon_mass": 7.342e22,
+  "time_step": 60
+}
